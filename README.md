@@ -1,3 +1,22 @@
+# 🛒 React Shopping Cart with Context API & MUI
+
+## 📌 Features
+- 🏷️ **Product Listing with Category Filtering**
+- 🛒 **Shopping Cart with Dynamic Item Count**
+- 🎨 **Modern UI with Material-UI (MUI)**
+- 🔄 **Pagination for Large Product Lists**
+- 🔔 **Toast Notifications for Better UX**
+- ⚡ **Optimized with Lazy Loading & Local Storage**
+- ✅ **Responsive & Mobile-Friendly Design**
+
+## 🚀 Getting Started
+1. Clone this repository:  
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
